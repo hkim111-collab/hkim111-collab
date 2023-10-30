@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🎰About me
+
+🥊 Pronouns: he / him
+<br>🧑‍💼 Currently studying Web Design and Web Development.
+<br>🏹 I have a knowlege of...
+<br> - HTML
+<br> - CSS
+<br> - Javascript
+<br> - PHP
+<br> - Wordpress
+<br> - Photoshop
+<br> - Illustrator
+ 
